@@ -1,8 +1,11 @@
 from turtle import *
 t = Turtle()
-circle(50,-180)
+
+circle(60,-180)
+t.lt(90)
 t.fd(20)
-t.lt(20)
-t.fd(90)
-t.rt(80)
+t.rt(90)
+t.fd(20)
+
+
 mainloop()

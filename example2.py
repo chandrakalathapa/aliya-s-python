@@ -3,7 +3,8 @@ bgcolor('black')
 pencolor('yellow')
 pensize(3)
 fillcolor('red')
-for i in range (5,0,-1):
+speed('fastest')
+for i in range (10,0,-1):
     begin_fill()
     circle(i*10)
     rt(25)

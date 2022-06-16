@@ -1,7 +1,7 @@
 from turtle import *
 s = getscreen()
 t = Turtle()
-t.speed('fastest')
+t.speed('slowest')
 for i in range (11):
     t.fd(100)
     t.lt(72)

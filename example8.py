@@ -1,4 +1,4 @@
-from turtle import *
+ from turtle import *
 
 colors=['purple','green','blue','red']
 pencolor(colors[0])
